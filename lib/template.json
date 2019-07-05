@@ -1,0 +1,16 @@
+{
+  "list": [
+    {
+      "name": "webpack-react",
+      "url": "LemonYo/Sapp", 
+      "branch": "",
+      "desc": "this is a template"
+    },
+    {
+      "name": "webpack-simple-react",
+      "url": "",
+      "branch": "",
+      "desc": "this is a simple template"
+    }
+  ]
+}
